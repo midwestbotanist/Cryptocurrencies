@@ -44,8 +44,10 @@ The elbow curve indicates "n_clusters=4" is the best k number. By running the KM
 
 Plotly Express was utilized to visualize the distinct groups that correspond to the 3 PCAs created during the analysis.
 
-## Summary and Conclusion:
+## Summary:
+As stated prior to beginning the analysis, Accountability Accounting is seeking to is seeking to offer a new cryptocurrency investment portfolio to interested customers. This analysis has reviewed all of the currently traded cryptocurrencies on the market and found that they are best grouped into 4 different classes. This classification system will allow Accountability Accounting to direct its customers to select from the classes based upon the investment goals they have. 
 
+Moving forward, it is important for Accountability Accounting to keep in mind that cryptocurrencies have generally been unstable in the market and should be suggested with a cautionary statement attached[2]. One of the known issues within cryptocurrency markets is the lack of regulation, overtime their may be improved stability should a regulatory body be put into place[3]. This is to say, cryptocurrency currently trends among the higher risk investments, however, many customers are highly interested in partaking in this market and so offering it within portfolios would be a good option for investors who have been educated on the risks and still wish to partake. Before moving further with crypto offerings, it may be worth considering to contract a professional experienced with cryptocurrencies to further direct the portfolio development.
 
 ## Data Resources:
 - https://archive.ics.uci.edu/ml/datasets/iris
@@ -53,3 +55,5 @@ Plotly Express was utilized to visualize the distinct groups that correspond to 
 
 ## Citations:
 - [1] https://www.forbes.com/sites/bernardmarr/2017/12/06/a-short-history-of-bitcoin-and-crypto-currency-everyone-should-read/?sh=208698cf3f27
+- [2] De Pace, P., & Rao, J. (2023). Comovement and instability in cryptocurrency markets. International Review of Economics & Finance, 83, 173-200.
+- [3] https://www.forbes.com/advisor/investing/cryptocurrency/crypto-market-outlook-forecast/
